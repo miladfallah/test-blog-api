@@ -12,14 +12,14 @@
 
 ```bash
 # 1. clone مخزن
-git clone <your-repo-url>
+git clone https://github.com/miladfallah/test-blog-api.git
 cd blog-api
 
 # 2. نصب وابستگی‌ها
 npm install
 
 # 3. کپی فایل محیطی
-cp .env.example .env
+cp .env .env
 # سپس فایل .env را با مقادیر واقعی پر کنید
 
 # 4. اجرای migrations
